@@ -27,3 +27,7 @@ $ focus
 <p align="center">
   Building software, exploring systems, and learning something new every day.
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PascalDevWasTaken/PascalDevWasTaken/output/github-snake.svg" />
+</p>
