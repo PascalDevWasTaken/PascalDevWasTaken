@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pascal 👋
+Software developer with a strong interest in systems programming, security research, and reverse engineering.
+Experienced with C/C++, Python, Lua, and x86 Assembly, while also working with APIs, automation, and software development workflows.
 
-<!--
-**PascalDevWasTaken/PascalDevWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ experience
+C/C++     | 6+ years
+Python    | 5+ years
+Lua       | 5+ years
+x86 ASM   | 1+ year
 
-Here are some ideas to get you started:
+$ interests
+> reverse_engineering
+> security_research
+> systems_programming
+> windows_internals
+> binary_analysis
+> api_development
+> automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ focus
+> low_level_development
+> software_engineering
+> secure_applications
+```
+
+<p align="center">
+  Building software, exploring systems, and learning something new every day.
+</p>
