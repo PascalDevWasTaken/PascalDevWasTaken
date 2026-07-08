@@ -8,6 +8,7 @@ C/C++     | 6+ years
 Python    | 5+ years
 Lua       | 5+ years
 x86 ASM   | 1+ year
+Various   | Broad foundational knowledge
 
 $ interests
 > reverse_engineering
