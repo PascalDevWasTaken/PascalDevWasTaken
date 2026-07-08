@@ -32,7 +32,7 @@ $ focus
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PascalDevWasTaken/PascalDevWasTaken/e55d8c78f565d3fe7ba4b91a980a98aeb9965730/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/PascalDevWasTaken/PascalDevWasTaken/blob/output/github-snake.svg">
-    <img alt="github contribution snake" src="https://github.com/PascalDevWasTaken/PascalDevWasTaken/blob/output/ocean.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PascalDevWasTaken/PascalDevWasTaken/e55d8c78f565d3fe7ba4b91a980a98aeb9965730/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/PascalDevWasTaken/PascalDevWasTaken/refs/heads/output/ocean.gif">
   </picture>
 </p>
